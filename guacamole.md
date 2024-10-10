@@ -1,4 +1,4 @@
-# Gucamole
+# Guacamole
 Sachen gibts 
 ## Sach
 Was ist das... des is ein *Sach* 
